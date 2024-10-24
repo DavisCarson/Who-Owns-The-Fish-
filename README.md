@@ -61,27 +61,6 @@ python einstein_solver.py
 ```
 3. The program will output the complete solution matrix and identify who owns the fish
 
-## Future Improvements
-* Add **visualization** of the solution process
-* Implement **alternative solving strategies** (e.g., forward checking)
-* Create an **interactive version** where users can input their own constraints
-* Add **performance metrics** to measure solving time
-* Include **multiple puzzle variants** with different constraints
-
-## Technologies Used
-* Python 3
-* Backtracking Algorithm
-* Constraint Satisfaction
-* Matrix Operations
-
-## Educational Value
-This project demonstrates:
-* Implementation of **constraint satisfaction problems**
-* Use of **backtracking algorithms**
-* **Matrix manipulation** in Python
-* **Logical reasoning** and problem-solving
-* **Clean code** practices with well-documented constraints
-
 ## Authors
 * Davis Carson
 * Emily Dogbatse
