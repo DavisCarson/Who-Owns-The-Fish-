@@ -44,13 +44,13 @@ The solver uses a systematic backtracking approach to find a valid solution that
 
 ## Example Output
 ```python
-[norwegian, yellow, water, dunhills, cats]
-[dane, blue, tea, blends, horses]
-[brit, red, milk, pall_mills, birds]
-[german, green, coffee, princes, fish]
-[swede, white, beer, bluemasters, dogs]
+[0, 4, 4, 2, 3]
+[1, 1, 0, 1, 4]
+[2, 0, 2, 0, 2]
+[3, 2, 1, 4, 0]
+[4, 3, 3, 3, 1]
 
-The German keeps the fish. He lives in the fourth house!
+The german keeps the fish. He lives in the fourth house!
 ```
 
 ## How to Use
